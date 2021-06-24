@@ -9,19 +9,19 @@
 
 - 👨‍💻 All of my projects are available at [https://thisismahdhi.ml/](https://thisismahdhi.ml/)
 
-- 📝 I regularly write articles on [https://medium.com/@mahdhirezvi](https://medium.com/@mahdhirezvi)
+<!-- - 📝 I regularly write articles on [https://medium.com/@mahdhirezvi](https://medium.com/@mahdhirezvi) -->
 
 - 💬 Ask me about **JavaScript, React, Angular, Node JS**
 
 - 📫 How to reach me **mahdhirezvi@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Design Patterns in JavaScript](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345?source=rss-19c90c54b753------2)
 - [JavaScript Typed Arrays](https://blog.bitsrc.io/javascript-typed-arrays-ccfa5ae8838d?source=rss-19c90c54b753------2)
 - [Import Assertions in JavaScript](https://blog.bitsrc.io/import-assertions-in-javascript-511605db5bfe?source=rss-19c90c54b753------2)
 - [Better Privacy with Chromium’s Privacy Sandbox](https://blog.bitsrc.io/better-privacy-with-chromiums-privacy-sandbox-6134117f74be?source=rss-19c90c54b753------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
