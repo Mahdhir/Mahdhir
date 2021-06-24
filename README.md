@@ -15,19 +15,19 @@
 
 - 📫 How to reach me **mahdhirezvi@gmail.com**
 
-<!-- ### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns in JavaScript](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345?source=rss-19c90c54b753------2)
-- [JavaScript Typed Arrays](https://blog.bitsrc.io/javascript-typed-arrays-ccfa5ae8838d?source=rss-19c90c54b753------2)
-- [Import Assertions in JavaScript](https://blog.bitsrc.io/import-assertions-in-javascript-511605db5bfe?source=rss-19c90c54b753------2)
-- [Better Privacy with Chromium’s Privacy Sandbox](https://blog.bitsrc.io/better-privacy-with-chromiums-privacy-sandbox-6134117f74be?source=rss-19c90c54b753------2)
-<!-- BLOG-POST-LIST:END --> -->
+<!-- - [Design Patterns in JavaScript](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345?source=rss-19c90c54b753------2)-->
+<!-- - [JavaScript Typed Arrays](https://blog.bitsrc.io/javascript-typed-arrays-ccfa5ae8838d?source=rss-19c90c54b753------2)-->
+<!-- - [Import Assertions in JavaScript](https://blog.bitsrc.io/import-assertions-in-javascript-511605db5bfe?source=rss-19c90c54b753------2)-->
+<!-- - [Better Privacy with Chromium’s Privacy Sandbox](https://blog.bitsrc.io/better-privacy-with-chromiums-privacy-sandbox-6134117f74be?source=rss-19c90c54b753------2)-->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahdhirezvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdhirezvi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahdhi-rezvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdhi-rezvi" height="30" width="40" /></a>
-<a href="https://medium.com/@mahdhirezvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahdhirezvi" height="30" width="40" /></a>
+<a href="https://medium.com/@mahdhi_rezvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahdhirezvi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
