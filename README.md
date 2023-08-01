@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, Knex, Mongo DB and Graph QL**
 
-- 👨‍💻 All of my projects are available at [https://thisismahdhi.ml/](https://thisismahdhi.ml/)
+- 👨‍💻 All of my projects are available at [https://mahdhi.me/](https://mahdhi.me/)
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@mahdhirezvi](https://medium.com/@mahdhirezvi) -->
 
