@@ -35,4 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdhir&show_icons=true&locale=en&layout=compact" alt="mahdhir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdhir&show_icons=true&locale=en" alt="mahdhir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-mahdhir.vercel.app/api?username=mahdhir&show_icons=true&locale=en" alt="mahdhir" /></p>
